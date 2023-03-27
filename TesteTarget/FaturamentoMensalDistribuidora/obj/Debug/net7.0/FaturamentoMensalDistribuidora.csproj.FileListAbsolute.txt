@@ -1,0 +1,15 @@
+D:\outros\teste-target\TesteTarget\FaturamentoMensalDistribuidora\bin\Debug\net7.0\FaturamentoMensalDistribuidora.exe
+D:\outros\teste-target\TesteTarget\FaturamentoMensalDistribuidora\bin\Debug\net7.0\FaturamentoMensalDistribuidora.deps.json
+D:\outros\teste-target\TesteTarget\FaturamentoMensalDistribuidora\bin\Debug\net7.0\FaturamentoMensalDistribuidora.runtimeconfig.json
+D:\outros\teste-target\TesteTarget\FaturamentoMensalDistribuidora\bin\Debug\net7.0\FaturamentoMensalDistribuidora.dll
+D:\outros\teste-target\TesteTarget\FaturamentoMensalDistribuidora\bin\Debug\net7.0\FaturamentoMensalDistribuidora.pdb
+D:\outros\teste-target\TesteTarget\FaturamentoMensalDistribuidora\obj\Debug\net7.0\FaturamentoMensalDistribuidora.csproj.AssemblyReference.cache
+D:\outros\teste-target\TesteTarget\FaturamentoMensalDistribuidora\obj\Debug\net7.0\FaturamentoMensalDistribuidora.GeneratedMSBuildEditorConfig.editorconfig
+D:\outros\teste-target\TesteTarget\FaturamentoMensalDistribuidora\obj\Debug\net7.0\FaturamentoMensalDistribuidora.AssemblyInfoInputs.cache
+D:\outros\teste-target\TesteTarget\FaturamentoMensalDistribuidora\obj\Debug\net7.0\FaturamentoMensalDistribuidora.AssemblyInfo.cs
+D:\outros\teste-target\TesteTarget\FaturamentoMensalDistribuidora\obj\Debug\net7.0\FaturamentoMensalDistribuidora.csproj.CoreCompileInputs.cache
+D:\outros\teste-target\TesteTarget\FaturamentoMensalDistribuidora\obj\Debug\net7.0\FaturamentoMensalDistribuidora.dll
+D:\outros\teste-target\TesteTarget\FaturamentoMensalDistribuidora\obj\Debug\net7.0\refint\FaturamentoMensalDistribuidora.dll
+D:\outros\teste-target\TesteTarget\FaturamentoMensalDistribuidora\obj\Debug\net7.0\FaturamentoMensalDistribuidora.pdb
+D:\outros\teste-target\TesteTarget\FaturamentoMensalDistribuidora\obj\Debug\net7.0\FaturamentoMensalDistribuidora.genruntimeconfig.cache
+D:\outros\teste-target\TesteTarget\FaturamentoMensalDistribuidora\obj\Debug\net7.0\ref\FaturamentoMensalDistribuidora.dll

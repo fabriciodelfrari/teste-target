@@ -17,7 +17,7 @@ try
 
         Console.WriteLine();
 
-        if (str.Length != 0 && !string.IsNullOrWhiteSpace(str))
+        if (str!.Length != 0 && !string.IsNullOrWhiteSpace(str))
         {
             Console.WriteLine("Aqui está sua string revertida:");
             Console.WriteLine(ReverterString(str));

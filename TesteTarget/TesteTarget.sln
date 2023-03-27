@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FaturamentoDiario", "Fatura
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverterString", "ReverterString\ReverterString.csproj", "{7ED366EF-C9A7-4DBB-AD21-6F1AF77A928D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaturamentoMensalDistribuidora", "FaturamentoMensalDistribuidora\FaturamentoMensalDistribuidora.csproj", "{6C3AACBF-8BB2-4370-A48E-537A24ACCDCC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{7ED366EF-C9A7-4DBB-AD21-6F1AF77A928D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7ED366EF-C9A7-4DBB-AD21-6F1AF77A928D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7ED366EF-C9A7-4DBB-AD21-6F1AF77A928D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C3AACBF-8BB2-4370-A48E-537A24ACCDCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C3AACBF-8BB2-4370-A48E-537A24ACCDCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C3AACBF-8BB2-4370-A48E-537A24ACCDCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C3AACBF-8BB2-4370-A48E-537A24ACCDCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
