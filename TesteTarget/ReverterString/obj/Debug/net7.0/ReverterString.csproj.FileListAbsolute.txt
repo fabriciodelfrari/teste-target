@@ -1,0 +1,15 @@
+D:\outros\teste-target\TesteTarget\ReverterString\bin\Debug\net7.0\ReverterString.exe
+D:\outros\teste-target\TesteTarget\ReverterString\bin\Debug\net7.0\ReverterString.deps.json
+D:\outros\teste-target\TesteTarget\ReverterString\bin\Debug\net7.0\ReverterString.runtimeconfig.json
+D:\outros\teste-target\TesteTarget\ReverterString\bin\Debug\net7.0\ReverterString.dll
+D:\outros\teste-target\TesteTarget\ReverterString\bin\Debug\net7.0\ReverterString.pdb
+D:\outros\teste-target\TesteTarget\ReverterString\obj\Debug\net7.0\ReverterString.csproj.AssemblyReference.cache
+D:\outros\teste-target\TesteTarget\ReverterString\obj\Debug\net7.0\ReverterString.GeneratedMSBuildEditorConfig.editorconfig
+D:\outros\teste-target\TesteTarget\ReverterString\obj\Debug\net7.0\ReverterString.AssemblyInfoInputs.cache
+D:\outros\teste-target\TesteTarget\ReverterString\obj\Debug\net7.0\ReverterString.AssemblyInfo.cs
+D:\outros\teste-target\TesteTarget\ReverterString\obj\Debug\net7.0\ReverterString.csproj.CoreCompileInputs.cache
+D:\outros\teste-target\TesteTarget\ReverterString\obj\Debug\net7.0\ReverterString.dll
+D:\outros\teste-target\TesteTarget\ReverterString\obj\Debug\net7.0\refint\ReverterString.dll
+D:\outros\teste-target\TesteTarget\ReverterString\obj\Debug\net7.0\ReverterString.pdb
+D:\outros\teste-target\TesteTarget\ReverterString\obj\Debug\net7.0\ReverterString.genruntimeconfig.cache
+D:\outros\teste-target\TesteTarget\ReverterString\obj\Debug\net7.0\ref\ReverterString.dll
