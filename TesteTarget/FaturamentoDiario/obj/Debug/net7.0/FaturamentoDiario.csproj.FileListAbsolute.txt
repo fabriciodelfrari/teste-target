@@ -1,0 +1,17 @@
+D:\outros\teste-target\TesteTarget\FaturamentoDiario\bin\Debug\net7.0\FaturamentoDiario.exe
+D:\outros\teste-target\TesteTarget\FaturamentoDiario\bin\Debug\net7.0\FaturamentoDiario.deps.json
+D:\outros\teste-target\TesteTarget\FaturamentoDiario\bin\Debug\net7.0\FaturamentoDiario.runtimeconfig.json
+D:\outros\teste-target\TesteTarget\FaturamentoDiario\bin\Debug\net7.0\FaturamentoDiario.dll
+D:\outros\teste-target\TesteTarget\FaturamentoDiario\bin\Debug\net7.0\FaturamentoDiario.pdb
+D:\outros\teste-target\TesteTarget\FaturamentoDiario\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\outros\teste-target\TesteTarget\FaturamentoDiario\obj\Debug\net7.0\FaturamentoDiario.csproj.AssemblyReference.cache
+D:\outros\teste-target\TesteTarget\FaturamentoDiario\obj\Debug\net7.0\FaturamentoDiario.GeneratedMSBuildEditorConfig.editorconfig
+D:\outros\teste-target\TesteTarget\FaturamentoDiario\obj\Debug\net7.0\FaturamentoDiario.AssemblyInfoInputs.cache
+D:\outros\teste-target\TesteTarget\FaturamentoDiario\obj\Debug\net7.0\FaturamentoDiario.AssemblyInfo.cs
+D:\outros\teste-target\TesteTarget\FaturamentoDiario\obj\Debug\net7.0\FaturamentoDiario.csproj.CoreCompileInputs.cache
+D:\outros\teste-target\TesteTarget\FaturamentoDiario\obj\Debug\net7.0\FaturamentoDiario.csproj.CopyComplete
+D:\outros\teste-target\TesteTarget\FaturamentoDiario\obj\Debug\net7.0\FaturamentoDiario.dll
+D:\outros\teste-target\TesteTarget\FaturamentoDiario\obj\Debug\net7.0\refint\FaturamentoDiario.dll
+D:\outros\teste-target\TesteTarget\FaturamentoDiario\obj\Debug\net7.0\FaturamentoDiario.pdb
+D:\outros\teste-target\TesteTarget\FaturamentoDiario\obj\Debug\net7.0\FaturamentoDiario.genruntimeconfig.cache
+D:\outros\teste-target\TesteTarget\FaturamentoDiario\obj\Debug\net7.0\ref\FaturamentoDiario.dll
